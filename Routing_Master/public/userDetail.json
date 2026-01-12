@@ -149,31 +149,7 @@
         "Role": "Admin",
         "Profession": "Architect"
     },
-    {
-        "id": 7,
-        "Name": {
-            "FirstName": "Grace",
-            "SecondName": "Wilson"
-        },
-        "ContactNo": {
-            "MobileNo": "9867890123",
-            "TelNo": "01-7890123",
-            "Email": "grace.wilson@example.com"
-        },
-        "Address": {
-            "Country": "Nepal",
-            "State": "Gandaki",
-            "Municipality": {
-                "Type": "Sub-Metropolitan"
-            },
-            "Street": "Dharapani Road",
-            "Tole": "Mountain Tole",
-            "HouseNo": "78G"
-        },
-        "Age": 29,
-        "Role": "User",
-        "Profession": "Engineer"
-    },
+   
     {
         "id": 8,
         "Name": {
