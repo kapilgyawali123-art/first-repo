@@ -1,0 +1,252 @@
+[
+    {
+        "id": 1,
+        "Name": {
+            "FirstName": "Alice",
+            "SecondName": "Johnson"
+        },
+        "ContactNo": {
+            "MobileNo": "9801234567",
+            "TelNo": "01-1234567",
+            "Email": "alice.johnson@example.com"
+        },
+        "Address": {
+            "Country": "Nepal",
+            "State": "Bagmati",
+            "Municipality": {
+                "Type": "Metropolitan"
+            },
+            "Street": "Kathmandu Road",
+            "Tole": "Thamel",
+            "HouseNo": "12A"
+        },
+        "Age": 28,
+        "Role": "Admin",
+        "Profession": "Software Engineer"
+    },
+    {
+        "id": 2,
+        "Name": {
+            "FirstName": "Bob",
+            "SecondName": "Smith"
+        },
+        "ContactNo": {
+            "MobileNo": "9812345678",
+            "TelNo": "01-2345678",
+            "Email": "bob.smith@example.com"
+        },
+        "Address": {
+            "Country": "Nepal",
+            "State": "Gandaki",
+            "Municipality": {
+                "Type": "Sub-Metropolitan"
+            },
+            "Street": "Pokhara Road",
+            "Tole": "Lakeside",
+            "HouseNo": "23B"
+        },
+        "Age": 34,
+        "Role": "User",
+        "Profession": "Teacher"
+    },
+    {
+        "id": 3,
+        "Name": {
+            "FirstName": "Carol",
+            "SecondName": "Williams"
+        },
+        "ContactNo": {
+            "MobileNo": "9823456789",
+            "TelNo": "01-3456789",
+            "Email": "carol.williams@example.com"
+        },
+        "Address": {
+            "Country": "Nepal",
+            "State": "Lumbini",
+            "Municipality": {
+                "Type": "Municipality"
+            },
+            "Street": "Lumbini Street",
+            "Tole": "Buddha Tole",
+            "HouseNo": "34C"
+        },
+        "Age": 25,
+        "Role": "User",
+        "Profession": "Nurse"
+    },
+    {
+        "id": 4,
+        "Name": {
+            "FirstName": "David",
+            "SecondName": "Brown"
+        },
+        "ContactNo": {
+            "MobileNo": "9834567890",
+            "TelNo": "01-4567890",
+            "Email": "david.brown@example.com"
+        },
+        "Address": {
+            "Country": "Nepal",
+            "State": "Koshi",
+            "Municipality": {
+                "Type": "Metropolitan"
+            },
+            "Street": "Biratnagar Road",
+            "Tole": "Birat Tole",
+            "HouseNo": "45D"
+        },
+        "Age": 30,
+        "Role": "Moderator",
+        "Profession": "Journalist"
+    },
+    {
+        "id": 5,
+        "Name": {
+            "FirstName": "Eva",
+            "SecondName": "Davis"
+        },
+        "ContactNo": {
+            "MobileNo": "9845678901",
+            "TelNo": "01-5678901",
+            "Email": "eva.davis@example.com"
+        },
+        "Address": {
+            "Country": "Nepal",
+            "State": "Madhesh",
+            "Municipality": {
+                "Type": "Municipality"
+            },
+            "Street": "Janakpur Road",
+            "Tole": "Durga Tole",
+            "HouseNo": "56E"
+        },
+        "Age": 27,
+        "Role": "User",
+        "Profession": "Designer"
+    },
+    {
+        "id": 6,
+        "Name": {
+            "FirstName": "Frank",
+            "SecondName": "Miller"
+        },
+        "ContactNo": {
+            "MobileNo": "9856789012",
+            "TelNo": "01-6789012",
+            "Email": "frank.miller@example.com"
+        },
+        "Address": {
+            "Country": "Nepal",
+            "State": "Bagmati",
+            "Municipality": {
+                "Type": "Metropolitan"
+            },
+            "Street": "Bhaktapur Road",
+            "Tole": "Durbar Tole",
+            "HouseNo": "67F"
+        },
+        "Age": 32,
+        "Role": "Admin",
+        "Profession": "Architect"
+    },
+    {
+        "id": 7,
+        "Name": {
+            "FirstName": "Grace",
+            "SecondName": "Wilson"
+        },
+        "ContactNo": {
+            "MobileNo": "9867890123",
+            "TelNo": "01-7890123",
+            "Email": "grace.wilson@example.com"
+        },
+        "Address": {
+            "Country": "Nepal",
+            "State": "Gandaki",
+            "Municipality": {
+                "Type": "Sub-Metropolitan"
+            },
+            "Street": "Dharapani Road",
+            "Tole": "Mountain Tole",
+            "HouseNo": "78G"
+        },
+        "Age": 29,
+        "Role": "User",
+        "Profession": "Engineer"
+    },
+    {
+        "id": 8,
+        "Name": {
+            "FirstName": "Henry",
+            "SecondName": "Taylor"
+        },
+        "ContactNo": {
+            "MobileNo": "9878901234",
+            "TelNo": "01-8901234",
+            "Email": "henry.taylor@example.com"
+        },
+        "Address": {
+            "Country": "Nepal",
+            "State": "Lumbini",
+            "Municipality": {
+                "Type": "Municipality"
+            },
+            "Street": "Butwal Road",
+            "Tole": "Sangam Tole",
+            "HouseNo": "89H"
+        },
+        "Age": 31,
+        "Role": "Moderator",
+        "Profession": "Doctor"
+    },
+    {
+        "id": 9,
+        "Name": {
+            "FirstName": "Ivy",
+            "SecondName": "Anderson"
+        },
+        "ContactNo": {
+            "MobileNo": "9889012345",
+            "TelNo": "01-9012345",
+            "Email": "ivy.anderson@example.com"
+        },
+        "Address": {
+            "Country": "Nepal",
+            "State": "Madhesh",
+            "Municipality": {
+                "Type": "Municipality"
+            },
+            "Street": "Birgunj Road",
+            "Tole": "Central Tole",
+            "HouseNo": "90I"
+        },
+        "Age": 26,
+        "Role": "User",
+        "Profession": "Student"
+    },
+    {
+        "id": 10,
+        "Name": {
+            "FirstName": "Jack",
+            "SecondName": "Thomas"
+        },
+        "ContactNo": {
+            "MobileNo": "9890123456",
+            "TelNo": "01-0123456",
+            "Email": "jack.thomas@example.com"
+        },
+        "Address": {
+            "Country": "Nepal",
+            "State": "Bagmati",
+            "Municipality": {
+                "Type": "Metropolitan"
+            },
+            "Street": "Lalitpur Road",
+            "Tole": "Patan Tole",
+            "HouseNo": "101J"
+        },
+        "Age": 33,
+        "Role": "Admin",
+        "Profession": "Entrepreneur"
+    }
+]
